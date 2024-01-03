@@ -1,0 +1,5 @@
+C:\Users\9999\source\repos\TestMethod\TestMethod\obj\Debug\Studying.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\TestMethod\TestMethod\bin\Debug\RevitAPIUser.dll
+C:\Users\9999\source\repos\TestMethod\TestMethod\bin\Debug\RevitAPIUser.pdb
+C:\Users\9999\source\repos\TestMethod\TestMethod\obj\Debug\RevitAPIUser.dll
+C:\Users\9999\source\repos\TestMethod\TestMethod\obj\Debug\RevitAPIUser.pdb
